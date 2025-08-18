@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-image: url("images/1.jpg");
+    background-image: url("1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -86,4 +86,5 @@ i{
 label a{
     color: #fff;
     text-decoration: none;
+
 }
