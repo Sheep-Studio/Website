@@ -1,1 +1,2 @@
-const pass = document.getElementById(``)
+const pass = document.getElementById(`password`)
+const login = document.getElementById(`Login`)
